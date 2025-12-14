@@ -1,8 +1,16 @@
 # DT084G-D2651-Laboration-3
 
-# Mitt Första Repository
+Detta repository innehåller arbete från min laboration i versionshantering med Git.
 
-Detta är mitt första Github-repository som skapats för en laboration i Git.
+## Syfte
+
+Att lära mig grunderna i:
+- Git-kommandon
+- Github-användning
+- Markdown-formatering
 
 ## Innehåll
-- Grundläggande information om projektet
+
+- README-filer
+- Dokumentation
+- Övningsuppgifter
